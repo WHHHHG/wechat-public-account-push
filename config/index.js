@@ -97,7 +97,7 @@ export const config = {
     {
       name: "小王同学",
       id: "oLTRn69OnmBb_K6DHLvDfREgckhk",
-      useTemplateId: "eU6Hruf7mCtgGYWwhNWI9ubtdq2w7kq4AgCiSinvEjI",
+      useTemplateId: "ANAD83el7eHIcs1fHH9HOEAbW7kpamCOQMBnP63dln0",
       province: "河南",
       city: "郑州",
       horoscopeDate: '05-04',
